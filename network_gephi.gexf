@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-14">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="5097316" label="ROSE" />
+      <node id="5098095" label="JACK" />
+      <node id="5097875" label="CAL" />
+      <node id="5098619" label="MOLLY" />
+      <node id="5098545" label="SMITH" />
+      <node id="5101061" label="LIGHTOLLER" />
+      <node id="5096969" label="LOVETT" />
+      <node id="5097941" label="LOVEJOY" />
+      <node id="5098606" label="ANDREWS" />
+      <node id="5097894" label="RUTH" />
+      <node id="5098041" label="OLD ROSE" />
+      <node id="5096948" label="BODINE" />
+      <node id="5098128" label="FABRIZIO" />
+      <node id="5098463" label="WOMAN" />
+      <node id="5098583" label="ISMAY" />
+      <node id="5101981" label="MURDOCH" />
+      <node id="5100134" label="STEWARD" />
+      <node id="5097212" label="BUELL" />
+      <node id="5101285" label="FLEET" />
+      <node id="5101840" label="LEE" />
+      <node id="5100235" label="SIR COSMO" />
+      <node id="5098242" label="MOODY" />
+      <node id="5102690" label="STEWARD #2" />
+      <node id="5099090" label="GRACIE" />
+      <node id="5098717" label="TOMMY" />
+      <node id="5097994" label="MAN" />
+      <node id="5101041" label="BRIDE" />
+      <node id="5098541" label="FIRST OFFICER MURDOCH" />
+      <node id="5098267" label="ROWE" />
+      <node id="5099110" label="COLONEL GRACIE" />
+      <node id="5103242" label="HITCHINS" />
+      <node id="5097505" label="LIZZY" />
+      <node id="5099096" label="MASTER AT ARMS" />
+      <node id="5102237" label="STEWARD BARNES" />
+      <node id="5102267" label="HUTCHINSON" />
+      <node id="5103072" label="LOWE" />
+      <node id="5096932" label="ANATOLY" />
+      <node id="5097262" label="ANNOUNCER" />
+      <node id="5102009" label="BARRETT" />
+      <node id="5101998" label="BELL" />
+      <node id="5099349" label="BROCK" />
+      <node id="5097161" label="CAMERAMAN" />
+      <node id="5097296" label="CNN REPORTER" />
+      <node id="5102841" label="CREWMAN" />
+      <node id="5097979" label="DANIEL" />
+      <node id="5105151" label="FATHER BYLES" />
+      <node id="5102317" label="GENTLEMAN" />
+      <node id="5100327" label="GUGGENHEIM" />
+      <node id="5102924" label="HARTLEY" />
+      <node id="5099499" label="HELGA" />
+      <node id="5104295" label="HUSBAND" />
+      <node id="5103789" label="IDA" />
+      <node id="5106033" label="IMMIGRATION OFFICER" />
+      <node id="5105104" label="JOUGHIN" />
+      <node id="5102992" label="LITTLE BOY" />
+      <node id="5100274" label="MADELEINE" />
+      <node id="5099903" label="MARVIN" />
+      <node id="5105174" label="MOTHER" />
+      <node id="5098082" label="OLAF" />
+      <node id="5103330" label="OPERATOR" />
+      <node id="5101750" label="PHILLIPS" />
+      <node id="5097915" label="PORTER" />
+      <node id="5098193" label="PUBKEEPER" />
+      <node id="5097320" label="REPORTER" />
+      <node id="5102617" label="SEAMAN" />
+      <node id="5098088" label="SVEN" />
+      <node id="5099267" label="TRANSITION" />
+      <node id="5098417" label="TRUDY" />
+      <node id="5100333" label="WAITER" />
+      <node id="5102939" label="WOMAN IN CROWD" />
+    </nodes>
+    <edges>
+      <edge source="5097316" target="5096948" id="0" />
+      <edge source="5097316" target="5097212" id="1" />
+      <edge source="5097316" target="5097875" id="2" />
+      <edge source="5097316" target="5097296" id="3" />
+      <edge source="5097316" target="5099110" id="4" />
+      <edge source="5097316" target="5098128" id="5" />
+      <edge source="5097316" target="5102317" id="6" />
+      <edge source="5097316" target="5100327" id="7" />
+      <edge source="5097316" target="5099499" id="8" />
+      <edge source="5097316" target="5104295" id="9" />
+      <edge source="5097316" target="5102267" id="10" />
+      <edge source="5097316" target="5105104" id="11" />
+      <edge source="5097316" target="5101061" id="12" />
+      <edge source="5097316" target="5097505" id="13" />
+      <edge source="5097316" target="5097941" id="14" />
+      <edge source="5097316" target="5097994" id="15" />
+      <edge source="5097316" target="5099903" id="16" />
+      <edge source="5097316" target="5098041" id="17" />
+      <edge source="5097316" target="5103330" id="18" />
+      <edge source="5097316" target="5098606" id="19" />
+      <edge source="5097316" target="5099349" id="20" />
+      <edge source="5097316" target="5097979" id="21" />
+      <edge source="5097316" target="5101285" id="22" />
+      <edge source="5097316" target="5099090" id="23" />
+      <edge source="5097316" target="5106033" id="24" />
+      <edge source="5097316" target="5098583" id="25" />
+      <edge source="5097316" target="5098095" id="26" />
+      <edge source="5097316" target="5101840" id="27" />
+      <edge source="5097316" target="5096969" id="28" />
+      <edge source="5097316" target="5103072" id="29" />
+      <edge source="5097316" target="5100274" id="30" />
+      <edge source="5097316" target="5099096" id="31" />
+      <edge source="5097316" target="5098619" id="32" />
+      <edge source="5097316" target="5097915" id="33" />
+      <edge source="5097316" target="5097320" id="34" />
+      <edge source="5097316" target="5098267" id="35" />
+      <edge source="5097316" target="5100235" id="36" />
+      <edge source="5097316" target="5100134" id="37" />
+      <edge source="5097316" target="5102237" id="38" />
+      <edge source="5097316" target="5098717" id="39" />
+      <edge source="5097316" target="5099267" id="40" />
+      <edge source="5097316" target="5098417" id="41" />
+      <edge source="5097316" target="5098463" id="42" />
+      <edge source="5097316" target="5097894" id="43" />
+      <edge source="5097316" target="5098545" id="44" />
+      <edge source="5097316" target="5100333" id="45" />
+      <edge source="5098095" target="5098606" id="46" />
+      <edge source="5098095" target="5098128" id="47" />
+      <edge source="5098095" target="5102317" id="48" />
+      <edge source="5098095" target="5099499" id="49" />
+      <edge source="5098095" target="5104295" id="50" />
+      <edge source="5098095" target="5102267" id="51" />
+      <edge source="5098095" target="5097875" id="52" />
+      <edge source="5098095" target="5099110" id="53" />
+      <edge source="5098095" target="5105151" id="54" />
+      <edge source="5098095" target="5101285" id="55" />
+      <edge source="5098095" target="5099090" id="56" />
+      <edge source="5098095" target="5100327" id="57" />
+      <edge source="5098095" target="5098583" id="58" />
+      <edge source="5098095" target="5105104" id="59" />
+      <edge source="5098095" target="5101840" id="60" />
+      <edge source="5098095" target="5097941" id="61" />
+      <edge source="5098095" target="5100274" id="62" />
+      <edge source="5098095" target="5097994" id="63" />
+      <edge source="5098095" target="5099903" id="64" />
+      <edge source="5098095" target="5098242" id="65" />
+      <edge source="5098095" target="5105174" id="66" />
+      <edge source="5098095" target="5098041" id="67" />
+      <edge source="5098095" target="5098193" id="68" />
+      <edge source="5098095" target="5098267" id="69" />
+      <edge source="5098095" target="5100235" id="70" />
+      <edge source="5098095" target="5100134" id="71" />
+      <edge source="5098095" target="5102690" id="72" />
+      <edge source="5098095" target="5102237" id="73" />
+      <edge source="5098095" target="5098717" id="74" />
+      <edge source="5098095" target="5100333" id="75" />
+      <edge source="5098095" target="5098463" id="76" />
+      <edge source="5098095" target="5101061" id="77" />
+      <edge source="5098095" target="5099096" id="78" />
+      <edge source="5098095" target="5098619" id="79" />
+      <edge source="5098095" target="5098082" id="80" />
+      <edge source="5098095" target="5097894" id="81" />
+      <edge source="5098095" target="5098545" id="82" />
+      <edge source="5098095" target="5098088" id="83" />
+      <edge source="5097875" target="5098606" id="84" />
+      <edge source="5097875" target="5099110" id="85" />
+      <edge source="5097875" target="5097979" id="86" />
+      <edge source="5097875" target="5098128" id="87" />
+      <edge source="5097875" target="5099090" id="88" />
+      <edge source="5097875" target="5100327" id="89" />
+      <edge source="5097875" target="5102924" id="90" />
+      <edge source="5097875" target="5103789" id="91" />
+      <edge source="5097875" target="5106033" id="92" />
+      <edge source="5097875" target="5098583" id="93" />
+      <edge source="5097875" target="5100274" id="94" />
+      <edge source="5097875" target="5099096" id="95" />
+      <edge source="5097875" target="5098619" id="96" />
+      <edge source="5097875" target="5098041" id="97" />
+      <edge source="5097875" target="5097915" id="98" />
+      <edge source="5097875" target="5100134" id="99" />
+      <edge source="5097875" target="5102237" id="100" />
+      <edge source="5097875" target="5099267" id="101" />
+      <edge source="5097875" target="5098417" id="102" />
+      <edge source="5097875" target="5100333" id="103" />
+      <edge source="5097875" target="5104295" id="104" />
+      <edge source="5097875" target="5101061" id="105" />
+      <edge source="5097875" target="5097941" id="106" />
+      <edge source="5097875" target="5097994" id="107" />
+      <edge source="5097875" target="5099903" id="108" />
+      <edge source="5097875" target="5101981" id="109" />
+      <edge source="5097875" target="5097894" id="110" />
+      <edge source="5097875" target="5100235" id="111" />
+      <edge source="5097875" target="5098717" id="112" />
+      <edge source="5097875" target="5098463" id="113" />
+      <edge source="5097875" target="5102939" id="114" />
+      <edge source="5098619" target="5102009" id="115" />
+      <edge source="5098619" target="5101998" id="116" />
+      <edge source="5098619" target="5101285" id="117" />
+      <edge source="5098619" target="5100327" id="118" />
+      <edge source="5098619" target="5103242" id="119" />
+      <edge source="5098619" target="5101061" id="120" />
+      <edge source="5098619" target="5099903" id="121" />
+      <edge source="5098619" target="5098606" id="122" />
+      <edge source="5098619" target="5099110" id="123" />
+      <edge source="5098619" target="5099090" id="124" />
+      <edge source="5098619" target="5098583" id="125" />
+      <edge source="5098619" target="5101840" id="126" />
+      <edge source="5098619" target="5100274" id="127" />
+      <edge source="5098619" target="5100235" id="128" />
+      <edge source="5098619" target="5098242" id="129" />
+      <edge source="5098619" target="5101981" id="130" />
+      <edge source="5098619" target="5098041" id="131" />
+      <edge source="5098619" target="5097894" id="132" />
+      <edge source="5098619" target="5098545" id="133" />
+      <edge source="5098619" target="5100333" id="134" />
+      <edge source="5098545" target="5098606" id="135" />
+      <edge source="5098545" target="5102317" id="136" />
+      <edge source="5098545" target="5098583" id="137" />
+      <edge source="5098545" target="5101061" id="138" />
+      <edge source="5098545" target="5101750" id="139" />
+      <edge source="5098545" target="5097894" id="140" />
+      <edge source="5098545" target="5101041" id="141" />
+      <edge source="5098545" target="5098128" id="142" />
+      <edge source="5098545" target="5098541" id="143" />
+      <edge source="5098545" target="5103242" id="144" />
+      <edge source="5098545" target="5102267" id="145" />
+      <edge source="5098545" target="5101981" id="146" />
+      <edge source="5101061" target="5098606" id="147" />
+      <edge source="5101061" target="5101041" id="148" />
+      <edge source="5101061" target="5098541" id="149" />
+      <edge source="5101061" target="5102924" id="150" />
+      <edge source="5101061" target="5104295" id="151" />
+      <edge source="5101061" target="5103789" id="152" />
+      <edge source="5101061" target="5097941" id="153" />
+      <edge source="5101061" target="5103072" id="154" />
+      <edge source="5101061" target="5097994" id="155" />
+      <edge source="5101061" target="5099903" id="156" />
+      <edge source="5101061" target="5097894" id="157" />
+      <edge source="5101061" target="5102939" id="158" />
+      <edge source="5101061" target="5098463" id="159" />
+      <edge source="5096969" target="5096932" id="160" />
+      <edge source="5096969" target="5099349" id="161" />
+      <edge source="5096969" target="5097212" id="162" />
+      <edge source="5096969" target="5097505" id="163" />
+      <edge source="5096969" target="5097262" id="164" />
+      <edge source="5096969" target="5096948" id="165" />
+      <edge source="5096969" target="5097161" id="166" />
+      <edge source="5096969" target="5097296" id="167" />
+      <edge source="5096969" target="5097320" id="168" />
+      <edge source="5096969" target="5098041" id="169" />
+      <edge source="5097941" target="5098606" id="170" />
+      <edge source="5097941" target="5099110" id="171" />
+      <edge source="5097941" target="5102841" id="172" />
+      <edge source="5097941" target="5099090" id="173" />
+      <edge source="5097941" target="5097979" id="174" />
+      <edge source="5097941" target="5103789" id="175" />
+      <edge source="5097941" target="5097994" id="176" />
+      <edge source="5097941" target="5098041" id="177" />
+      <edge source="5097941" target="5097894" id="178" />
+      <edge source="5097941" target="5099096" id="179" />
+      <edge source="5097941" target="5101981" id="180" />
+      <edge source="5097941" target="5097915" id="181" />
+      <edge source="5097941" target="5100134" id="182" />
+      <edge source="5097941" target="5102237" id="183" />
+      <edge source="5097941" target="5098463" id="184" />
+      <edge source="5098606" target="5103789" id="185" />
+      <edge source="5098606" target="5101981" id="186" />
+      <edge source="5098606" target="5102617" id="187" />
+      <edge source="5098606" target="5099110" id="188" />
+      <edge source="5098606" target="5099090" id="189" />
+      <edge source="5098606" target="5100327" id="190" />
+      <edge source="5098606" target="5098583" id="191" />
+      <edge source="5098606" target="5097894" id="192" />
+      <edge source="5098606" target="5100333" id="193" />
+      <edge source="5098606" target="5098463" id="194" />
+      <edge source="5097894" target="5102924" id="195" />
+      <edge source="5097894" target="5099903" id="196" />
+      <edge source="5097894" target="5099096" id="197" />
+      <edge source="5097894" target="5099110" id="198" />
+      <edge source="5097894" target="5097979" id="199" />
+      <edge source="5097894" target="5099090" id="200" />
+      <edge source="5097894" target="5100327" id="201" />
+      <edge source="5097894" target="5098583" id="202" />
+      <edge source="5097894" target="5100274" id="203" />
+      <edge source="5097894" target="5097994" id="204" />
+      <edge source="5097894" target="5098041" id="205" />
+      <edge source="5097894" target="5097915" id="206" />
+      <edge source="5097894" target="5100134" id="207" />
+      <edge source="5097894" target="5102237" id="208" />
+      <edge source="5097894" target="5100333" id="209" />
+      <edge source="5097894" target="5100235" id="210" />
+      <edge source="5097894" target="5102939" id="211" />
+      <edge source="5098041" target="5096948" id="212" />
+      <edge source="5098041" target="5097979" id="213" />
+      <edge source="5098041" target="5097994" id="214" />
+      <edge source="5098041" target="5106033" id="215" />
+      <edge source="5098041" target="5097505" id="216" />
+      <edge source="5098041" target="5099267" id="217" />
+      <edge source="5098041" target="5097915" id="218" />
+      <edge source="5098041" target="5098463" id="219" />
+      <edge source="5096948" target="5096932" id="220" />
+      <edge source="5096948" target="5097212" id="221" />
+      <edge source="5096948" target="5097161" id="222" />
+      <edge source="5096948" target="5097505" id="223" />
+      <edge source="5096948" target="5099349" id="224" />
+      <edge source="5098128" target="5099499" id="225" />
+      <edge source="5098128" target="5098583" id="226" />
+      <edge source="5098128" target="5098193" id="227" />
+      <edge source="5098128" target="5102690" id="228" />
+      <edge source="5098128" target="5098541" id="229" />
+      <edge source="5098128" target="5098082" id="230" />
+      <edge source="5098128" target="5098088" id="231" />
+      <edge source="5098128" target="5098717" id="232" />
+      <edge source="5098463" target="5102992" id="233" />
+      <edge source="5098463" target="5100134" id="234" />
+      <edge source="5098463" target="5102690" id="235" />
+      <edge source="5098463" target="5103789" id="236" />
+      <edge source="5098463" target="5097994" id="237" />
+      <edge source="5098583" target="5099110" id="238" />
+      <edge source="5098583" target="5098541" id="239" />
+      <edge source="5098583" target="5099090" id="240" />
+      <edge source="5098583" target="5100327" id="241" />
+      <edge source="5098583" target="5102267" id="242" />
+      <edge source="5098583" target="5103072" id="243" />
+      <edge source="5098583" target="5101981" id="244" />
+      <edge source="5098583" target="5100333" id="245" />
+      <edge source="5101981" target="5101285" id="246" />
+      <edge source="5101981" target="5098242" id="247" />
+      <edge source="5101981" target="5102009" id="248" />
+      <edge source="5101981" target="5101998" id="249" />
+      <edge source="5101981" target="5101840" id="250" />
+      <edge source="5101981" target="5098717" id="251" />
+      <edge source="5100134" target="5102992" id="252" />
+      <edge source="5100134" target="5102690" id="253" />
+      <edge source="5100134" target="5102237" id="254" />
+      <edge source="5097212" target="5097262" id="255" />
+      <edge source="5097212" target="5099349" id="256" />
+      <edge source="5097212" target="5097505" id="257" />
+      <edge source="5101285" target="5102009" id="258" />
+      <edge source="5101285" target="5101998" id="259" />
+      <edge source="5101285" target="5101840" id="260" />
+      <edge source="5101285" target="5098242" id="261" />
+      <edge source="5101840" target="5102009" id="262" />
+      <edge source="5101840" target="5101998" id="263" />
+      <edge source="5101840" target="5098242" id="264" />
+      <edge source="5100235" target="5103242" id="265" />
+      <edge source="5100235" target="5099090" id="266" />
+      <edge source="5100235" target="5100274" id="267" />
+      <edge source="5098242" target="5102009" id="268" />
+      <edge source="5098242" target="5101998" id="269" />
+      <edge source="5098242" target="5098267" id="270" />
+      <edge source="5102690" target="5102992" id="271" />
+      <edge source="5102690" target="5098717" id="272" />
+      <edge source="5099090" target="5099110" id="273" />
+      <edge source="5099090" target="5100274" id="274" />
+      <edge source="5099090" target="5099096" id="275" />
+      <edge source="5099090" target="5098717" id="276" />
+      <edge source="5099090" target="5100327" id="277" />
+      <edge source="5099090" target="5100333" id="278" />
+      <edge source="5097994" target="5097979" id="279" />
+      <edge source="5097994" target="5104295" id="280" />
+      <edge source="5097994" target="5097915" id="281" />
+      <edge source="5101041" target="5098541" id="282" />
+      <edge source="5101041" target="5101750" id="283" />
+      <edge source="5099110" target="5100327" id="284" />
+      <edge source="5099110" target="5099096" id="285" />
+      <edge source="5099110" target="5100333" id="286" />
+      <edge source="5097505" target="5099349" id="287" />
+      <edge source="5099096" target="5102237" id="288" />
+      <edge source="5102267" target="5102317" id="289" />
+      <edge source="5102009" target="5101998" id="290" />
+      <edge source="5097296" target="5097320" id="291" />
+      <edge source="5097979" target="5097915" id="292" />
+      <edge source="5105151" target="5105174" id="293" />
+      <edge source="5100327" target="5100333" id="294" />
+      <edge source="5102924" target="5102939" id="295" />
+      <edge source="5098082" target="5098193" id="296" />
+      <edge source="5098082" target="5098088" id="297" />
+      <edge source="5098193" target="5098088" id="298" />
+    </edges>
+  </graph>
+</gexf>
